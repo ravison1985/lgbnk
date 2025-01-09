@@ -4,7 +4,7 @@ import json
 import os
 
 # File to store user data
-USER_DATA_FILE = "user_data.json"
+USER_DATA_FILE = "https://github.com/ravison1985/lgbnk/blob/main/user_data.json"
 
 # Load user data from JSON file
 def load_user_data():
