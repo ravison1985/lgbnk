@@ -1,0 +1,56 @@
+{
+    "user1": {
+        "password": "$2b$12$hashedpassword1",
+        "security_question": "Your pet's name?",
+        "security_answer": "$2b$12$hashedanswer",
+        "applications": {}
+    },
+    "ravison": {
+        "password": "$2b$12$/9ma376epHu6sx3lqFdpgOzGW7MSfBD5TUfp1GqFgTY2dyOyTYaoe",
+        "applications": {}
+    },
+    "pawan": {
+        "password": "$2b$12$tiQPmCGNIc9pL/cyHuPkoes9NyJK5rnfs0Vc5wbVFvqZ9Ufw0MDGO",
+        "security_question": "ravi",
+        "security_answer": "$2b$12$4bdFa4M3G2kBf9igtgzLfeeMAV.Zus7CMOn/GX4r4ex0XJ4LBT5hy",
+        "applications": {}
+    },
+    "SBIN": {
+        "password": "$2b$12$XozjKpQ3grGgY6Ir7IlUJud3MHM5pJGSZ06hbEn2m91ymoEW8B9cW",
+        "security_question": "ravi",
+        "security_answer": "$2b$12$bFTmEpBUjCqdKzOiGzOQpOkLouekpRwQAqYORM.JHGvfHF5J74zPS",
+        "applications": {}
+    },
+    "raju": {
+        "password": "$2b$12$Nz12buKALFY1pnQFNMgZzO9dxW1OWaDQmFfBFEOl8Z4.xAt77OOw.",
+        "security_question": "rav",
+        "security_answer": "$2b$12$EGBpl3lXXrdf1.vBhwxPh.6bs4qZaKwejGZF.RDb8YfWmppgi8gJK",
+        "applications": {}
+    },
+    "rajan": {
+        "password": "$2b$12$V4aejlz1RxAgRv.PCVxQlux787zaQkDlE7Ey.ez0kKje1f9wis6xK",
+        "security_question": "star8585",
+        "security_answer": "$2b$12$6ranDZfrGth//KdSpkyQq.ciZhl0zi9eJ7TW5FMlzwCqp0Dol1vdu",
+        "applications": {
+            "RAVINDRA BAIJUNATH SONAWANE_rajan": {
+                "name": "RAVINDRA BAIJUNATH SONAWANE",
+                "age": 18,
+                "loan_amount": 52222,
+                "loan_purpose": "ass"
+            }
+        }
+    },
+    "ravisona": {
+        "password": "$2b$12$w7YSbq/epwQfSEkxCoRNMeXaP0d9f6upFdQRwdf2jBRQhBAwVZFZy",
+        "applications": {
+            "applicant_1": {
+                "name": "RAVINDRA BAIJUNATH SONAWANE",
+                "age": 4
+            },
+            "applicant_2": {
+                "name": "RAVINDRA BAIJUNATH SONAWANE",
+                "age": 121
+            }
+        }
+    }
+}
